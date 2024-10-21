@@ -1,0 +1,51 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fff5f5;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 50px;
+}
+
+h1 {
+    color: #ff6473;
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.5em;
+    color: #333;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff6473;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.2em;
+}
+
+.button:hover {
+    background-color: #ff8f9b;
+}
+
+.love-page {
+    background-color: #ffe5e5;
+    position: relative;
+}
+
+.hearts {
+    /* Add floating heart animation or GIFs here */
+}
+
+.gallery img {
+    max-width: 200px;
+    margin: 10px;
+    border-radius: 10px;
+}
